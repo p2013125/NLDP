@@ -1,0 +1,10 @@
+Crazy Force 5 levels level set
+Dificulty: Easy through midium\\\A special level set\\Author: P2013125
+cf
+shot-cf/2way1.png
+
+map-cf/2way1.sol
+map-cf/fast.sol
+map-cf/jump2.sol
+map-cf/color.sol
+map-cf/all.sol
